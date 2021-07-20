@@ -33,10 +33,10 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-standard": "^3.0.1",
     "react": "^16.8.6",
-    "react-native": "^0.60.0"
+    "react-native": "^0.62.3"
   },
   "peerDependencies": {
     "react": "^16.8.6",
-    "react-native": "^0.60.0"
+    "react-native": "^0.62.3"
   }
 }
